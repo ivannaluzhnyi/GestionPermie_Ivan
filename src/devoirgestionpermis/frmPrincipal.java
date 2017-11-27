@@ -415,6 +415,7 @@ Test test = null;
                     v.add(t.getNbFautes());
                     v.add(t.getTermine());
                     dtmTests.addRow(v);
+                    
                }
             
         }
